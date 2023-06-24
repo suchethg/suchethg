@@ -13,7 +13,10 @@ I'm pursuing my master's in computer science at University of Southern Californi
 
 😄 Pronouns: He/Him
 
-⚡ Portfolio
+⚡ [Portfolio](https://suchethg.github.io/Portfolio-Website/)
 
 Let's Connect -
-Linkedin Badge Gmail Badge
+[![LinkedIn](https://raw.githubusercontent.com/your-username/your-repository/main/images/linkedin-logo.png)](https://www.linkedin.com/in/suchethg/)
+[![Gmail](https://raw.githubusercontent.com/your-username/your-repository/main/images/gmail-logo.png)](suchethgr@gmail.com)
+
+## License Gmail Badge
