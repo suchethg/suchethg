@@ -17,6 +17,6 @@ I'm pursuing my master's in computer science at University of Southern Californi
 
 Let's Connect -
 [![LinkedIn](https://raw.githubusercontent.com/your-username/your-repository/main/images/linkedin-logo.png)](https://www.linkedin.com/in/suchethg/)
-[![Gmail](https://raw.githubusercontent.com/your-username/your-repository/main/images/gmail-logo.png)](mailto:your-email@gmail.com))
+[![Gmail](https://raw.githubusercontent.com/your-username/your-repository/main/images/gmail-logo.png)](mailto:your-email@gmail.com)
 
 ## License Gmail Badge
