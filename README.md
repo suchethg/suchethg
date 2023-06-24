@@ -16,7 +16,7 @@ I'm pursuing my master's in computer science at University of Southern Californi
 ⚡ [Portfolio](https://suchethg.github.io/Portfolio-Website/)
 
 Let's Connect -
-[![LinkedIn](https://raw.githubusercontent.com/your-username/your-repository/main/images/linkedin-logo.png)](https://www.linkedin.com/in/suchethg/)
+[![LinkedIn](https://freelogopng.com/images/all_img/1656994981linkedin-icon-png.png)](https://www.linkedin.com/in/suchethg/)
 [![Gmail](https://raw.githubusercontent.com/your-username/your-repository/main/images/gmail-logo.png)](mailto:suchethgr@gmail.com)
 
 ## License
