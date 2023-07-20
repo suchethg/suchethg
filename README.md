@@ -3,7 +3,7 @@ I'm pursuing my master's in computer science at University of Southern Californi
 
 💻 I’m currently a full-stack developer with a focus on cloud and distributed computing.
 
-🌱 I'm interested in learning Machine Learning, Distributed computing.
+🌱 I'm interested in learning Cloud Computing and Distributed computing.
 
 🔭 I’m looking to collaborate on OpenSourced projects on ML to learn more and improve my knowledge.
 
