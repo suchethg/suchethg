@@ -11,9 +11,8 @@ I'm pursuing my master's in computer science at University of Southern Californi
 
 💬 Hit me up for discussions about tech, cricket, football.
 
-😄 Pronouns: He/Him
 
-⚡ [Portfolio](https://suchethg.github.io/Portfolio-Website/)
+
 
 Let's Connect 
 
