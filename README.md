@@ -1,5 +1,5 @@
 👨‍💻 Sucheth Govindaraju
-I'm pursuing my master's in computer science at University of Southern California. I have previously worked at DXC Technology as an associate software engineer.
+I'm pursuing my master's in computer science at University of Southern California.
 
 💻 I’m currently a full-stack developer with a focus on cloud and distributed computing.
 
