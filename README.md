@@ -11,9 +11,6 @@ I'm pursuing my master's in computer science at University of Southern Californi
 
 💬 Hit me up for discussions about tech, cricket, football.
 
-Check out my portfolio [here](https://suchethg.github.io/portfolio_website/).
-
-
 Let's Connect 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suchethg/)
