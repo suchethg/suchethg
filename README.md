@@ -11,7 +11,7 @@ I'm always eager to learn and collaborate on innovative projects. Check out my r
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suchethg/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suchethgr@gmail.com)
-[![Personal Website](https://img.shields.io/badge/Portfolio_Website-24292E?style=for-the-badge&logo=web&logoColor=white)](https://suchethg.github.io/portfolio_website/).
+[![Personal Website](https://img.shields.io/badge/Portfolio_Website-24292E?style=for-the-badge&logo=web&logoColor=white)](https://suchethg.github.io/portfolio_website/)
 
 ## License
 
