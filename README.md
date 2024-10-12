@@ -5,7 +5,7 @@ I'm a passionate software engineer pursuing my Master of Science in Computer Sci
 🔧 Technical Expertise:
 
 **Languages:** Python, Go/Golang, JavaScript, Java, C#, Kotlin, SQL, HTML, CSS, PHP  
-**Frameworks & Technologies:** Jenkins, Docker, Kubernetes, Terraform, AWS, React, Redux, Angular, Node.js, ASP.NET Core, Flask, MySQL, PostgreSQL, MongoDB  
+**Technologies:** Jenkins, Docker, Kubernetes, Terraform, AWS, React, Redux, Angular, Node.js, ASP.NET Core, Flask, MySQL, PostgreSQL, MongoDB  
 **DevOps & CI/CD:** Skilled in designing and implementing CI/CD pipelines using Jenkins, CloudFormation, and Docker, automating infrastructure provisioning and deployments.
 
 I'm always eager to learn and collaborate on innovative projects. Check out my repositories to see some of the projects I've worked on, and feel free to reach out if you'd like to discuss tech, collaborate on a project, or just chat!
