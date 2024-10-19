@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sucheth Govindaraju</h1>
-<h3 align="center">I'm a passionate software engineer pursuing my Master of Science in Computer Science at the University of Southern California. With a solid foundation in DevOps, Cloud Computing, and Full-Stack development, I thrive on building scalable, high-performance applications.I'm always eager to learn and collaborate on innovative projects. Check out my repositories to see some of the projects I've worked on, and feel free to reach out if you'd like to discuss tech, collaborate on a project, or just chat!</h3>
+<h3 align="center">I'm a passionate software engineer pursuing my Master of Science in Computer Science at the University of Southern California. With a solid foundation in DevOps, Cloud Computing, and Full-Stack development, I thrive on building scalable, high-performance applications.</h3>
+<h3>I'm always eager to learn and collaborate on innovative projects. Check out my repositories to see some of the projects I've worked on, and feel free to reach out if you'd like to discuss tech, collaborate on a project, or just chat!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suchethg&label=Profile%20views&color=0e75b6&style=flat" alt="suchethg" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suchethg" alt="suchethg" /></a> </p>
 
 - 📫 How to reach me **suchethgr@gmail.com**
 
