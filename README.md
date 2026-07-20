@@ -83,13 +83,7 @@ I'm continuously learning about Kubernetes, AI infrastructure, GPU platforms, di
 
 ## 📈 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=suchethg&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suchethg&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=suchethg&theme=tokyonight&hide_border=true"/>
